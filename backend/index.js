@@ -25,4 +25,4 @@ app.post("/auth", async (req, res) => {
   }
 });
 
-app.listen(3002);
+app.listen(3001);
